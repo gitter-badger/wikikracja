@@ -1,5 +1,6 @@
 # PyCharm files
 .idea/
+.cache/
 
 # SQLite database file
 /db.sqlite3
